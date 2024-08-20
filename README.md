@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning "Automation Testing - Python"
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at "imranahmad_ah@rediffmail.com"
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: "Emma"
+- ⚡ Fun fact: "Quick Learner"
 
 <!---
 imranc07/imranc07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
