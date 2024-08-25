@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Imran Ahmad
 - 👀 I’m interested in "Automation Testing - Python"
 - 🌱 I’m currently learning "Automation Testing - Python"
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with ...
 - 📫 Reach me at "imranahmad_ah@rediffmail.com"
 - 😄 Pronouns: "Emma"
 - ⚡ Fun fact: "Quick Learner"
