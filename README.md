@@ -1,4 +1,5 @@
-<img align="right" alt="Automation Testing" width="400" src="https://github.com/imranc07/imranc07/blob/main/Python%20Selenium%20Automation%20Testing.gif">
+  <img align="right" alt="Automation Testing" width="400" src="https://github.com/imranc07/imranc07/blob/main/Python%20Selenium%20Automation%20Testing.gif">
+
 - 👋 Hi, I’m Imran Ahmad
 - 👀 I’m interested in "Automation Testing - Python"                
 - 🌱 I’m currently learning "Automation Testing - Python"
