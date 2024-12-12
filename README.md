@@ -11,4 +11,4 @@ imranc07/imranc07 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="topright" alt="Automation Testing" width="400" src="https://github.com/user-attachments/assets/188357c6-2020-46e3-a648-5c7d93ac68c7">
+<img align="right" alt="Automation Testing" width="400" src="https://github.com/imranc07/imranc07/blob/main/Python%20Selenium%20Automation%20Testing.gif">
