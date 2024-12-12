@@ -8,6 +8,9 @@
 - 😄 Pronouns: "Emma"
 - ⚡ Fun fact: "Quick Learner"
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="imran-ahmad-9458099b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/imran-ahmad-9458099b?trk=profile-badge">IMRAN AHMAD</a></div>
+              
+
 <!---
 imranc07/imranc07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
