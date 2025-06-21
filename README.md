@@ -58,8 +58,6 @@
 ### 👀 Visitor Counter
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imranc07.imranc07)
 
----
-
 <!---
 <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
