@@ -1,7 +1,10 @@
   
 
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
+<h2 align="center">🎯 Python Automation Tester | Selenium | PyTest | API Testing | CI/CD | POM | DDT & KDT | Robot</h2>
 <h3 align="center">Passionate about Python Automation Testing and continuous improvement, with expertise in Python programming and a focus on delivering efficient, high-quality software solutions.</h3>
+
+
 
 - 🔭 I’m currently working on [Automated Testing of Demo Webshop E-Commerce Web Application](https://github.com/imranc07/Capstone_Project)
 
@@ -23,7 +26,7 @@
 
 <img align="right" alt="Automation Testing" width="500" src="https://github.com/imranc07/imranc07/blob/main/Python%20Selenium%20Automation%20Testing.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
 <a href="https://dev.to/imranc07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imranc07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imran-ahmad-9458099b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-ahmad-9458099b/" height="30" width="40" /></a>
