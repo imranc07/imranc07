@@ -1,10 +1,13 @@
-  
+---
 
 <h1 align="center">Hi 👋, I'm Imran Ahmad</h1>
+
+---
+
 <h2 align="center">🎯 Python Automation Tester | Selenium | PyTest | API Testing | CI/CD | POM | DDT & KDT | Robot</h2>
 <h3 align="center">Passionate about Python Automation Testing and continuous improvement, with expertise in Python programming and a focus on delivering efficient, high-quality software solutions.</h3>
 
-
+---
 
 - 🔭 I’m currently working on [Automated Testing of Demo Webshop E-Commerce Web Application](https://github.com/imranc07/Capstone_Project)
 
@@ -24,7 +27,40 @@
 
 - ⚡ Fun fact **Before diving into Python Automation Testing, I optimized pharmaceutical production processes, reducing cycle times and improving efficiency. Now, I apply the same problem-solving mindset to automation—eliminating manual testing bottlenecks and making testing faster, smarter, and more reliable!**
 
+---
 
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imran-ahmad-9458099b)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/imranc07)
+
+---
+
+### 🧰 Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?logo=pytest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranc07&show_icons=true&theme=default&hide=prs,issues&count_private=true&custom_title=Imran%20Ahmad's%20GitHub%20Stats)
+
+---
+
+### 👀 Visitor Counter
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imranc07.imranc07)
+
+---
+
+<!---
 <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
 <a href="https://dev.to/imranc07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imranc07" height="30" width="40" /></a>
@@ -37,9 +73,7 @@
 
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranc07&show_icons=true&theme=default)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imranc07.imranc07)
-
+--->
 
 
 <!---
