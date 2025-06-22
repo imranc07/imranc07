@@ -17,9 +17,9 @@
 
 - 🤝 "I'm seeking collaboration to enhance Python automation testing frameworks, optimize test scripts, and implement efficient CI/CD practices." Let’s work together to improve software quality and reliability.**
 
-- 👨‍💻 All of my projects are available at [https://imranc07.github.io/imran-portfolio/](https://imranc07.github.io/imran-portfolio/)
+- 👨‍💻 [My Portfolio](https://imranc07.github.io/imran-portfolio/)
 
-- 📝 I regularly write articles on [https://dev.to/imranc07](https://dev.to/imranc07)
+- 📝 [My Articles](https://dev.to/imranc07)
 
 - 💬 Ask me about: **PyTest, Python, Selenium, POM**
 
