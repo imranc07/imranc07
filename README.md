@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **imranahmad_ah@rediffmail.com**
 
-- ⚡ Fun fact **Before diving into Python Automation Testing, I optimized pharmaceutical production processes, reducing cycle times and improving efficiency. Now, I apply the same problem-solving mindset to automation—eliminating manual testing bottlenecks and making testing faster, smarter, and more reliable!**
+- ⚡ Fun fact: **Before diving into Python Automation Testing, I optimized pharmaceutical production processes, reducing cycle times and improving efficiency. Now, I apply the same problem-solving mindset to automation—eliminating manual testing bottlenecks and making testing faster, smarter, and more reliable!**
 
 ---
 
