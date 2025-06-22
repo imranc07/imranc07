@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on [HRM Web Application.](https://github.com/imranc07/Mini_Project_2)
 
-- 🤝 I’m looking for help with **Seeking collaboration on enhancing Python automation testing frameworks, optimizing test scripts, and implementing efficient CI/CD practices. Let’s work together to improve software quality and reliability.**
+- 🤝 "I'm seeking collaboration to enhance Python automation testing frameworks, optimize test scripts, and implement efficient CI/CD practices." Let’s work together to improve software quality and reliability.**
 
 - 👨‍💻 All of my projects are available at [https://imranc07.github.io/imran-portfolio/](https://imranc07.github.io/imran-portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/imranc07](https://dev.to/imranc07)
 
-- 💬 Ask me about **PyTest, Python, Selenium, POM**
+- 💬 Ask me about: **PyTest, Python, Selenium, POM**
 
 - 📫 How to reach me **imranahmad_ah@rediffmail.com**
 
@@ -31,8 +31,9 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imran-ahmad-9458099b)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/imranc07)
+🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imran-ahmad-9458099b)  
+
+✍️[![Dev.to](https://img.shields.io/badge/Dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/imranc07)
 
 ---
 
