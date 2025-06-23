@@ -5,7 +5,7 @@
 ---
 
 <h2 align="center">🎯 Python Automation Tester | Selenium | PyTest | API Testing | CI/CD | POM | DDT & KDT | Robot</h2>
-<h3 align="center">Passionate about Python Automation Testing and continuous improvement, with expertise in Python programming and a focus on delivering efficient, high-quality software solutions.</h3>
+<h3 align="left">Passionate about Python Automation Testing and continuous improvement, with expertise in Python programming and a focus on delivering efficient, high-quality software solutions.</h3>
 
 ---
 
