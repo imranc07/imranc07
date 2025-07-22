@@ -13,7 +13,8 @@
 
 - 🌱 I’m currently learning **Automation Testing with Python Selenium**
 
-- 👯 I’m looking to collaborate on [HRM Web Application.](https://github.com/imranc07/Mini_Project_2)
+- 👯 I’m looking to collaborate on [HRM Web Application](https://github.com/imranc07/Mini_Project_2) and [Kristalball](https://github.com/imranc07/Smartpad-Customer-Feedback.git).
+
 
 - 🤝 "I'm seeking collaboration to enhance Python automation testing frameworks, optimize test scripts, and implement efficient CI/CD practices." Let’s work together to improve software quality and reliability.**
 
