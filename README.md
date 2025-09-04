@@ -36,23 +36,47 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/imranc07)
 
 ---
+### 🛠️ Languages & Tools  
 
-### 🧰 Languages & Tools  
+**Programming & Scripting**:  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FFBF00?logo=python&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?logo=pytest&logoColor=white)
-![HTML Report](https://img.shields.io/badge/-HTML%20Report-CC2927?logo=html5&logoColor=white)
-![Requests](https://img.shields.io/badge/-Requests-FF6F00?logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFBF00?logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+**Automation & Testing**:  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?logo=pytest&logoColor=white) ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?logo=robotframework&logoColor=white) ![HTML Report](https://img.shields.io/badge/-HTML%20Report-CC2927?logo=html5&logoColor=white) ![DOM](https://img.shields.io/badge/-DOM-FF5722?logo=googlechrome&logoColor=white)  
+
+**Build & CI/CD**:  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+**Databases & Tools**:  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)  
+
+**Web Technologies**:  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+
+**IDE & Development**:  
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  
+
+---
+
+### 📑 Test Design Patterns  
+
+**Framework Architecture**  
+- ![POM](https://img.shields.io/badge/POM-3776AB?style=flat&logo=python&logoColor=white) Scalable and maintainable test automation framework  
+- ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white) Keyword-driven testing for reusability  
+
+**Data Handling & Execution**  
+- ![DDT](https://img.shields.io/badge/Data--Driven%20Testing-FF9800?style=flat&logo=pytest&logoColor=white) Handle multiple test scenarios with datasets  
+- ![Parameterization](https://img.shields.io/badge/Parameterization-FF9800?style=flat&logo=googlechrome&logoColor=white) Execute test cases with multiple inputs dynamically  
+
+**Test Management & Fixtures**  
+- ![Fixtures](https://img.shields.io/badge/Fixtures-4CAF50?style=flat&logo=pytest&logoColor=white) Reusable setup/teardown for efficient automation  
+- ![Cross Browser](https://img.shields.io/badge/Cross--Browser%20Testing-4CAF50?style=flat&logo=googlechrome&logoColor=white) Ensure compatibility across Chrome, Firefox, Edge  
+
+**Reporting & Debugging**  
+- ![HTML Reports](https://img.shields.io/badge/HTML%20Reports-F44336?style=flat&logo=html5&logoColor=white) Structured visualization of test results  
+- ![Logging](https://img.shields.io/badge/Logging%20%26%20Debugging-F44336?style=flat&logo=logstash&logoColor=white) Capture execution details for analysis  
+
+
 
 ---
 
