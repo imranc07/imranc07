@@ -29,26 +29,30 @@
 - ⚡ Fun fact: **Before diving into Python Automation Testing, I optimized pharmaceutical production processes, reducing cycle times and improving efficiency. Now, I apply the same problem-solving mindset to automation—eliminating manual testing bottlenecks and making testing faster, smarter, and more reliable!**
 
 ---
+## 🌐 Connect with Me  
 
-### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-ahmad-9458099b/)  
 
-🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/imran-ahmad-9458099b)  
-
-
-✍️[![Dev.to](https://img.shields.io/badge/Dev.to-171717?logo=dev.to&logoColor=white)](https://dev.to/imranc07)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/imranc07)
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?logo=pytest&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML Report](https://img.shields.io/badge/-HTML%20Report-CC2927?logo=html5&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-FF6F00?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFBF00?logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
