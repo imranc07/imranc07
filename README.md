@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">🎯 Python Automation Tester | Selenium | PyTest | API Testing | CI/CD | POM | DDT & KDT | Robot</h2>
+<h2 align="left">🎯 Python Automation Tester | Selenium | PyTest | API Testing | CI/CD | POM | DDT & KDT | Robot</h2>
 <h3 align="left">Passionate about Python Automation Testing and continuous improvement, with expertise in Python programming and a focus on delivering efficient, high-quality software solutions.</h3>
 
 ---
@@ -60,23 +60,21 @@
 
 ### 📑 Test Design Patterns  
 
-**Framework Architecture**  
-- ![POM](https://img.shields.io/badge/POM-3776AB?style=flat&logo=python&logoColor=white) Scalable and maintainable test automation framework  
-- ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white) Keyword-driven testing for reusability  
+**Framework Architecture:**  
+- ![POM](https://img.shields.io/badge/POM-1565C0?style=flat&logo=python&logoColor=white) Scalable and maintainable test automation framework  
+- ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-455A64?style=flat&logo=robotframework&logoColor=white) Keyword-driven testing for reusability  
 
-**Data Handling & Execution**  
-- ![DDT](https://img.shields.io/badge/Data--Driven%20Testing-FF9800?style=flat&logo=pytest&logoColor=white) Handle multiple test scenarios with datasets  
-- ![Parameterization](https://img.shields.io/badge/Parameterization-FF9800?style=flat&logo=googlechrome&logoColor=white) Execute test cases with multiple inputs dynamically  
+**Data Handling & Execution:**  
+- ![Data Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-FF9800?style=flat&logo=pytest&logoColor=white) Handle multiple test scenarios with datasets  
+- ![Parameterization](https://img.shields.io/badge/Parameterization-FFC107?style=flat&logo=googlechrome&logoColor=black) Execute test cases with multiple inputs dynamically  
 
-**Test Management & Fixtures**  
+**Test Management & Fixtures:**  
 - ![Fixtures](https://img.shields.io/badge/Fixtures-4CAF50?style=flat&logo=pytest&logoColor=white) Reusable setup/teardown for efficient automation  
-- ![Cross Browser](https://img.shields.io/badge/Cross--Browser%20Testing-4CAF50?style=flat&logo=googlechrome&logoColor=white) Ensure compatibility across Chrome, Firefox, Edge  
+- ![Cross Browser](https://img.shields.io/badge/Cross--Browser%20Testing-388E3C?style=flat&logo=googlechrome&logoColor=white) Ensure compatibility across Chrome, Firefox, Edge  
 
-**Reporting & Debugging**  
-- ![HTML Reports](https://img.shields.io/badge/HTML%20Reports-F44336?style=flat&logo=html5&logoColor=white) Structured visualization of test results  
-- ![Logging](https://img.shields.io/badge/Logging%20%26%20Debugging-F44336?style=flat&logo=logstash&logoColor=white) Capture execution details for analysis  
-
-
+**Reporting & Debugging:**  
+- ![HTML Reports](https://img.shields.io/badge/HTML%20Reports-E53935?style=flat&logo=html5&logoColor=white) Structured visualization of test results  
+- ![Logging](https://img.shields.io/badge/Logging%20%26%20Debugging-B71C1C?style=flat&logo=logstash&logoColor=white) Capture execution details for analysis  
 
 ---
 
