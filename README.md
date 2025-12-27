@@ -80,12 +80,6 @@
 
 ### 📊 GitHub Stats
 
-
-### 📊 GitHub Stats
-
-
-### 📊 GitHub Stats
-
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranc07&theme=github_dark)
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranc07&theme=github_dark)
