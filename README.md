@@ -80,7 +80,7 @@
 
 ### 📊 GitHub Stats
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranc07&show_icons=true&theme=default&count_private=true&hide=prs,issues&custom_title=Imran%20Ahmad's%20GitHub%20Stats)
+![Imran GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranc07&show_icons=true&theme=default&hide=prs,issues&cache_seconds=86400)
 
 ---
 
