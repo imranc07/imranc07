@@ -80,7 +80,17 @@
 
 ### 📊 GitHub Stats
 
-![Imran GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranc07&show_icons=true&theme=default&hide=prs,issues&cache_seconds=86400)
+
+### 📊 GitHub Stats
+
+
+### 📊 GitHub Stats
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranc07&theme=github_dark)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranc07&theme=github_dark)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imranc07&theme=github_dark)
 
 ---
 
