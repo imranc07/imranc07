@@ -84,8 +84,6 @@
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imranc07&theme=github_dark)
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imranc07&theme=github_dark)
-
 ---
 
 ### 👀 Visitor Counter
